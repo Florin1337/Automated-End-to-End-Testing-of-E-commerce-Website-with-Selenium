@@ -1,0 +1,1 @@
+Using Selenium with Python, I created an automated test that automates the process of logging into an account, adding different items to the cart, filling up the billing page with credit card information and street details for delivery, and finally ordering the product.
