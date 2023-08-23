@@ -36,7 +36,6 @@ for a in range(0, len(lista_produse)):
     add_cart.click()
     driver.get("https://www.automationexercise.com/view_cart")
 
-
 time.sleep(3)
 checkout = driver.find_element("css selector", "#do_action > div.container > div > div > a")
 checkout.click()
